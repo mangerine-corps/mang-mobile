@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Outfit-Bold.ttf",
+      "sha1": "dd5f4206d22d8b093a53a2f6423ed532fd656aeb"
+    },
+    {
+      "path": "src/assets/fonts/Outfit-ExtraBold.ttf",
+      "sha1": "89c8a2a10ed63a324be105656649546f0be6d8a1"
+    },
+    {
+      "path": "src/assets/fonts/Outfit-Light.ttf",
+      "sha1": "77822e4eba7d32622113003e21b0d17ed7a8f528"
+    },
+    {
+      "path": "src/assets/fonts/Outfit-Medium.ttf",
+      "sha1": "accdc4a94720336a48bb6fd31759bbfa268f902e"
+    },
+    {
+      "path": "src/assets/fonts/Outfit-Regular.ttf",
+      "sha1": "7724dc42adf3e8caa9a1f7f64bc02016f201f550"
+    },
+    {
+      "path": "src/assets/fonts/Outfit-SemiBold.ttf",
+      "sha1": "8e01f823ad73ea02ad96c676497c3e050d6e9e90"
+    },
+    {
+      "path": "src/assets/fonts/cocoicon.ttf",
+      "sha1": "524bcb53e8f899eb90c34605cf3cf577ba0febd5"
+    },
+    {
+      "path": "src/assets/fonts/cocooutline.ttf",
+      "sha1": "6cd4a2e4849d0ff10f95ca212e82f841efe1b07e"
+    },
+    {
+      "path": "src/assets/fonts/cocooutlinefontello.ttf",
+      "sha1": "688616f12703a97d9f7e30fae7a11b0039abff99"
+    },
+    {
+      "path": "src/assets/fonts/icomoon.ttf",
+      "sha1": "3fe1567401b3ef54a527e44d75087536418c3ceb"
+    }
+  ]
+}

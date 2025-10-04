@@ -1,0 +1,15 @@
+{
+  "extends": "@react-native/typescript-config/tsconfig.json",
+  "compilerOptions": {
+    /* Visit https://aka.ms/tsconfig.json to read more about this file */
+
+    /* Completeness */
+    "skipLibCheck": true /* Skip type checking all .d.ts files. */,
+    "baseUrl": ".",
+    "moduleSuffixes": [".android", ".ios", ""],
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "typeRoots": ["./src/types", "./node_modules/@types"]
+  }
+}
